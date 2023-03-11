@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Glassmorphism-Calculator/static/css/main.5566623f.chunk.css",
+    "main.js": "/React-Glassmorphism-Calculator/static/js/main.63f61dd5.chunk.js",
+    "main.js.map": "/React-Glassmorphism-Calculator/static/js/main.63f61dd5.chunk.js.map",
+    "runtime-main.js": "/React-Glassmorphism-Calculator/static/js/runtime-main.a81408d8.js",
+    "runtime-main.js.map": "/React-Glassmorphism-Calculator/static/js/runtime-main.a81408d8.js.map",
+    "static/js/2.a5d8ed2e.chunk.js": "/React-Glassmorphism-Calculator/static/js/2.a5d8ed2e.chunk.js",
+    "static/js/2.a5d8ed2e.chunk.js.map": "/React-Glassmorphism-Calculator/static/js/2.a5d8ed2e.chunk.js.map",
+    "index.html": "/React-Glassmorphism-Calculator/index.html",
+    "precache-manifest.2eb6cd76390bd1f87c8a2dac7ace1289.js": "/React-Glassmorphism-Calculator/precache-manifest.2eb6cd76390bd1f87c8a2dac7ace1289.js",
+    "service-worker.js": "/React-Glassmorphism-Calculator/service-worker.js",
+    "static/css/main.5566623f.chunk.css.map": "/React-Glassmorphism-Calculator/static/css/main.5566623f.chunk.css.map",
+    "static/js/2.a5d8ed2e.chunk.js.LICENSE.txt": "/React-Glassmorphism-Calculator/static/js/2.a5d8ed2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a81408d8.js",
+    "static/js/2.a5d8ed2e.chunk.js",
+    "static/css/main.5566623f.chunk.css",
+    "static/js/main.63f61dd5.chunk.js"
+  ]
+}
